@@ -4,6 +4,14 @@
 
 **Deep Learning | Quantitative Finance | Time-Series Forecasting | Generative AI | Investment Analytics**
 
+<img width="1181" height="650" alt="image" src="https://github.com/user-attachments/assets/295687d6-3410-4a73-ac88-45d625a6c98a" />
+<img width="755" height="447" alt="image" src="https://github.com/user-attachments/assets/bab34ba7-883c-4f4a-aa15-60f1dee7ec78" />
+<img width="761" height="376" alt="image" src="https://github.com/user-attachments/assets/cadef2d1-c627-4393-8f2d-6ed6c7589e14" />
+<img width="781" height="623" alt="image" src="https://github.com/user-attachments/assets/694548b8-af19-41db-aae7-f9c800d6b84e" />
+<img width="752" height="447" alt="image" src="https://github.com/user-attachments/assets/d1dec914-3c04-42be-a1c7-b40f80544ff9" />
+<img width="1488" height="350" alt="image" src="https://github.com/user-attachments/assets/3ea8fb67-0878-4d67-b2d6-d84d07426cb8" />
+<img width="675" height="547" alt="image" src="https://github.com/user-attachments/assets/fd456642-9592-4411-b361-8954e23de338" />
+
 ## Project Overview
 
 Developed an AI-enhanced quantitative investment analytics system for the Colombo Stock Exchange (CSE), integrating **N-BEATS deep learning, financial valuation, technical indicators, strategy backtesting, and Ollama-powered Large Language Models (LLMs)**.
